@@ -1,0 +1,56 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "angelsaddons-storage",
+      "enabled": true
+    },
+    
+    {
+      "name": "BetterInserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "LoaderRedux",
+      "enabled": true
+    },
+    
+    {
+      "name": "Long Inserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "Side Inserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "vanilla-loaders-hd",
+      "enabled": true
+    },
+    
+    {
+      "name": "WideChestsLogistic",
+      "enabled": true
+    }
+  ]
+}
